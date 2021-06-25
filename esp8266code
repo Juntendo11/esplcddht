@@ -2,7 +2,7 @@
   Original code from:
   Rui Santos
   Complete project details at https://randomnerdtutorials.com/esp8266-dht11dht22-temperature-and-humidity-web-server-with-arduino-ide/
-  Edited by Juichi Nishimura
+  Edited by Juntendo
 *********/
 
 // Import required libraries
